@@ -1,2 +1,5 @@
-# javaScript-algorithms-and-data-structures-FCC
-5 little javascript project that I made for the freecodecamp javascript algorithms and data structures certificate.
+# FreeCodeCamp
+[freeCodeCamp.org](https://www.freecodecamp.org/)  is a organization to help people learn coding free. This repository contains my solutions to get a responsive web design certificate. 
+
+
+## Projects
